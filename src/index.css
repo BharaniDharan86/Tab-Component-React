@@ -1,0 +1,23 @@
+.container {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.company {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.content {
+  padding: 60px 40px;
+  background-color: aliceblue;
+}
+
+li {
+  margin: 10px 0px;
+}
+
+.active {
+  border-bottom: 3px solid black;
+}
